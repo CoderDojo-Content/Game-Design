@@ -6,7 +6,7 @@
 
    **Minecraft**のように、分かりやすいゴールのないゲームがいくつかあります。 代わりに、プレイヤーが自分の目標を探して決められる世界で遊ぶことができます。 これらのゲームは、プログラミングすることも、プレイヤーを楽しませることも難しいです。
 
-   > ### Start planning your game!
+   > ### ゲームの計画を立てよう！
    >
    > 作りたいゲームは決まりましたか？ では、紙（またはコンピュータ上のファイル）を取り出し、次の質問に対する答えを書きましょう。
    >
@@ -17,23 +17,23 @@
 
 2. ## ゲームのゴール\(敗北\)
 
-   ほとんどのゲームには、プレーヤーがすべてのライフを失ったとき、または目標を達成できなかったときに、「あなたの負け」画面が表示されます。 また、あなたがゲームをどう作ったかによって、「ゲームオーバー」または「タイムアップ」画面になることもあります。 負ける方法がなければ、プレーヤーは必ず勝つので、楽しいゲームとはならないでしょう。
+   ほとんどのゲームには、プレーヤーがすべてのライフを失ったとき、または目標を達成できなかったときに、あなたが負けたことを表す画面が表示されます。 また、あなたがゲームをどう作ったかによって、「ゲームオーバー」または「タイムアップ」画面になることもあります。 負ける方法がなければ、プレーヤーは必ず勝つので、楽しいゲームとはならないでしょう。
 
-   Decide what _resources_, like health, magic power, tools or fuel, that the _player_ can use to complete the _goal_. A very easy way to add a losing condition is by adding a _time limit_.
+プレーヤーが目標を達成するために使える、HP、MP、アイテム、燃料のようなステータスを決定しましょう。 とても簡単に負ける条件を追加する方法として、時間に制限を加えるという方法があります。
 
-   Other _"You Lose"_ screens could be events: When the _player's_ _character_ falls down a pit, or when a customer in the _player's_ restaurant loses her patience while waiting for her dish.
+負けた画面は時にイベントになる可能性があります。プレイヤーのキャラクターが落とし穴に落ちたときや、プレイヤーのレストランの顧客が彼女の料理を待ちきれなくなったときなどです。
 
-   In most games, if you start the game and do nothing, you eventually lose. This pushes the _player_ forward and encourages them to do something, adding excitement.
+ほとんどのゲームでは、ゲームを始めて何もしないと、最終的には負けます。 なので、プレーヤーが前進するよう刺激を与えて何かアクションを起こすように促します。
 
-   Also, you should decide how long a game will be. If a _stage_ or _level_ takes two hours to complete, it might be too long for a simple platform game. Be careful though: The _player_ might not feel they've succeeded in anything if it only takes a couple of minutes to complete.
+また、ゲームの長さも決める必要があります。 １つのステージやレベルが完了するまでに2時間かかる場合、シンプルなルールのゲームでは長すぎるかもしれません。 しかし、注意してください！プレイヤーはゲームが完了するのに数分しかかからない場合、何かに成功したとは思わないかもしれません。
 
-   > ### Update your plan!
-   >
-   > Get your plan out again and note down the answers to these questions:
-   >
-   > * What can cause the _player_ to lose the game?
-   > * What can the _player_ do to avoid losing?
-   > * What is the ideal game length, if the _player_ plays well?
+> ### 計画をアップデートしよう！
+>
+> 先ほど紙に書いたプランをもう一度取り出し、次の質問に対する答えを書き足しましょう。
+>
+> * プレイヤーがゲームに負ける原因は何ですか？
+> * プレイヤーがゲームに負けないためにできることは何ですか？
+> * プレイヤーが上手にプレイできた場合の理想的なゲームの長さはどれくらいですか？
 
 
 
